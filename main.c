@@ -1,6 +1,6 @@
 void main ( void )
 {
-  printf("Hellow World!\n");
+  printf("Hello/Bonjour World/Monde!\n");
   while ( 1 )
   {
     ;
